@@ -23,5 +23,5 @@ The game should now be running on http://localhost:3000 in your browser.
 # Contributing
 I welcome contributions to this project. If you have any ideas or suggestions, please open an issue or submit a pull request.
 
-License
+# License
 This project is licensed under the MIT License. 
