@@ -1,4 +1,4 @@
-# Who Wants to Be a Millionaire?
+# Who Wants to Be a Millionaire? <a href="https://preeminent-crumble-a11ae5.netlify.app/" target="_blank">Demo</a>  
 The purpose of this project is to exercise the use of React hooks and basic styling techniques. The game, inspired by Trivia tutorials, contains a variety of front-end questions ranging from easy to difficult levels. The goal is to simulate the popular game show "Who Wants to Be a Millionaire?" and test users' knowledge in a fun and interactive way.
 
 
